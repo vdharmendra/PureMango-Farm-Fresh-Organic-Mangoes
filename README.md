@@ -19,16 +19,16 @@ Founded by **Virendra D. Verma**, PureMango brings you the finest mangoes direct
 - Bulk & Family Boxes
 - Seasonal Offers and Gift Packs
 
-## 🌐 Website
+<!-- ## 🌐 Website
 
-Visit our live site: [https://yourdomain.com](https://yourdomain.com)
+Visit our live site: [https://yourdomain.com](https://yourdomain.com) -->
 
 > *Replace the above link with your actual domain when live.*
 
 ## 🚚 Delivery Info
 
 Currently serving select cities and towns. Delivery available within 2–4 days of harvest.
-
+<!-- 
 ## 📱 Follow Us
 
 Stay updated on offers, harvest news, and behind-the-scenes content:
@@ -36,7 +36,7 @@ Stay updated on offers, harvest news, and behind-the-scenes content:
 - [Instagram](https://instagram.com/yourhandle)
 - [Facebook](https://facebook.com/yourhandle)
 - [TikTok](https://tiktok.com/@yourhandle)
-- [LinkedIn](https://linkedin.com/in/virendradverma)
+- [LinkedIn](https://linkedin.com/in/virendradverma) -->
 
 ## 🛠️ Technologies Used
 
@@ -45,9 +45,7 @@ Stay updated on offers, harvest news, and behind-the-scenes content:
 - JavaScript
 - GitHub Pages (for hosting)
 
-## 🤝 Contributing
 
-This is a small business project and not open to public contributions at the moment. If you’re a designer, marketer, or local vendor interested in collaboration, reach out via [email](mailto:youremail@example.com).
 
 ## 📄 License
 
